@@ -44,7 +44,7 @@
             <head>
             <style>
             body {
-              background-image: url('https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6c463ed7-b290-4c55-593d-baf4ed4fa900/width=450/01420-495632049-masterpiece,%201girl,%20Mahiru%20Shiina,%20school%20uniform_.jpeg');
+              background-image: url('https://jp.pinterest.com/pin/1062145893386253426/');
               background-repeat: no-repeat;
               background-attachment: fixed;  
               background-size: cover;
