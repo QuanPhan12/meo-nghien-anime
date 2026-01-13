@@ -44,7 +44,7 @@
             <head>
             <style>
             body {
-              background-image: url('https://jp.pinterest.com/pin/1062145893386253426/');
+              background-image: url('https://i.pinimg.com/736x/68/05/ae/6805ae5b3946abcc386aa48f9e66e575.jpg');
               background-repeat: no-repeat;
               background-attachment: fixed;  
               background-size: cover;
