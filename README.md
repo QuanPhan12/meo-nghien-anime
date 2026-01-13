@@ -12,6 +12,7 @@
       src="https://i.pinimg.com/236x/da/1f/7c/da1f7c06bde9d3b6dce7a2c2fd75e642.jpg"/>
     <h3> <i>MÈO Nghiền Anime, Manga</i></h3>
     <h3><i>PHAN Tất Quân</i></h3>
+    <h3><i>Mã Sinh Viên: 23ATT131</i></h3>
     <dip> 
         <h3>
            Châm ngôn sống: <font color="blue"><i> TÂM TĨNH NHƯ NƯỚC </i> </font>
@@ -37,6 +38,7 @@
             <li>Tiktok:<a href="https://www.tiktok.com/@shuichiakaik5?is_from_webapp=1&sender_device=pc">  CỤC TRƯỞNG FBI</a></li>
             <li>Instagram:<a href="https://www.instagram.com/silver_bullet205/">   silver_bullet205</a></li>
             <li>GitHub:<a href="https://github.com/QuanPhan12"><i>QuanPhan12</i></a></li>
+          <li>Trello:<a href="[https://github.com/QuanPhan12](https://trello.com/u/quanphanttrye/boards)"><i>Phan Tất Quân</i></a></li>
             <li>Số ĐT: 0568411761 </li>
         </ul>
             <head>
